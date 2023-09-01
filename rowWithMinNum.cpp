@@ -24,7 +24,9 @@ class Solution {
             if(count1<mini)
             {
                 mini=count1;
+                cout<<mini<<endl;
                 ans=i+1;
+                cout<<ans<<endl;
             }
         }
         
